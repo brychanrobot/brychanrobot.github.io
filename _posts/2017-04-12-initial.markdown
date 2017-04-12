@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beginning"
+date:   2017-04-12 07:06:12 -0600
+categories: general
+---
+
+This is an initial post for testing
